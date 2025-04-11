@@ -1,5 +1,5 @@
 # Fourier Series
-## A submission for the INF1A FP Competition 2024
+## A submission for the INF1A FP Competition 2024 (recieving the *first place 🥇*)
 #### by Arne Rönneberg
 
 ### Description
@@ -26,8 +26,16 @@ which will create a window that can be closed using the `Esc` key.
 ### Examples
 ![heart.gif](out/heart.gif)
 
+Video 1: Drawing a heart
+
 ![A_different_n10n50n100.gif](out/A_different_n10n50n100.gif)
+
+Video 2: Drawing the letter A with values of 10, 50, and 100 for the amount `n` of frequencies
 
 ![pi.gif](out/pi.gif)
 
+Video 3: Drawing the symbol π (pi)
+
 ![smiley.gif](out/smiley.gif)
+
+Video 4: Drawing a smiley
